@@ -1,0 +1,1746 @@
+{
+    "items": [
+        {
+            "id": "12721408/K4ASJK3D",
+            "type": "article-journal",
+            "title": "Learning Analytics Dashboard Applications",
+            "container-title": "American Behavioral Scientist",
+            "volume": "57",
+            "abstract": "This article introduces learning analytics dashboards that visualize learning traces for learners and teachers. We present a conceptual framework that helps to analyze learning analytics applications for these kinds of users. We then present our own work in this area and compare with 15 related dashboard applications for learning. Most evaluations evaluate only part of our conceptual framework and do not assess whether dashboards contribute to behavior change or new understanding, probably also because such assessment requires longitudinal studies.",
+            "DOI": "10.1177/0002764213479363",
+            "journalAbbreviation": "American Behavioral Scientist",
+            "author": [
+                {
+                    "family": "Verbert",
+                    "given": "Katrien"
+                },
+                {
+                    "family": "Duval",
+                    "given": "Erik"
+                },
+                {
+                    "family": "Klerkx",
+                    "given": "Joris"
+                },
+                {
+                    "family": "Govaerts",
+                    "given": "Sten"
+                },
+                {
+                    "family": "Santos",
+                    "given": "José"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2013",
+                        9,
+                        10
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/YX2I7BHP",
+            "type": "article-journal",
+            "title": "A model for integrating instructional technology into higher education",
+            "container-title": "British Journal of Educational Technology",
+            "page": "327-329",
+            "volume": "36",
+            "abstract": "Abstract This paper describes a model for integrating instructional technology into colleges and universities. The model is known as the RIPPLES Model because the main elements of the model are Resources, Infrastructure, People, Policies, Learning, Evaluation, and Support. The paper includes three main sections: a review of literature related to adoption and diffusion of innovations; results of a questionnaire sent to college Deans; and a brief discussion of the RIPPLES Model itself. The paper concludes with a discussion of the applicability of the model to other settings. Background Higher education, like many other areas of society, is beginning to make increased use of the rapidly increasing and expanding capabilities of technology. Communications,and manufacturing,technologies have had a profound impact on the missions of business and industry. Instructional technology has great potential to provide a similar impact on the teaching, research, and service missions of any college or university. However, as in most instances where organizations adopt new technology, there are numerous barriers to the integration of instructionaltechnology,in higher education. Even in colleges where integration has been relatively successful, the unintended consequences of technology and resistance to change among faculty, staff, and students have made the technology integration process a challenging and difficult one. The paper describes a model for overcoming,the barriers to integrating instructional technology into higher education. The elements of the model were developed by reviewing the relevant literature and by analyzing the results of a questionnaire sent to higher education Deans. The model described in this paper, like most models, has both descriptive and prescriptive applications. It describes the factors that facilitate the",
+            "DOI": "10.1111/j.1467-8535.2005.00461.x",
+            "journalAbbreviation": "British Journal of Educational Technology",
+            "author": [
+                {
+                    "family": "Surry",
+                    "given": "Daniel"
+                },
+                {
+                    "family": "Ensminger",
+                    "given": "David"
+                },
+                {
+                    "family": "Haab",
+                    "given": "Melissa"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2005",
+                        2,
+                        25
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/AIRAHFSB",
+            "type": "article-journal",
+            "title": "Supporting awareness and self-regulation in project-based learning through personalised dashboards",
+            "container-title": "International Journal of Technology Enhanced Learning",
+            "page": "204",
+            "volume": "9",
+            "issue": "2/3",
+            "abstract": "Project-based learning (PBL) enables learners to carry out challenging and authentic projects through investigations. However, PBL is difficult to implement successfully because learners often lack the selfregulation skills required to monitor, reflect, manage and assess their project activities and learning. Furthermore, most learning systems rarely offer possibilities to monitor and reflect on their project and learning processes. Hence, in this paper, we propose a general architecture of project-based learning management system. It enhances learners’ reflective processes by supporting them in creating customisable indicators by exploring their traces. We developed an implementation named DDART and conducted an experiment in order to evaluate its usability and perceived utility. We found that this system supports learners to reflect and regulate their activities and learning, even if the indicator creation could be difficult for the novices.",
+            "URL": "http://www.inderscience.com/link.php?id=84500",
+            "DOI": "10.1504/IJTEL.2017.084500",
+            "journalAbbreviation": "IJTEL",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Michel",
+                    "given": "Christine"
+                },
+                {
+                    "family": "Lavoué",
+                    "given": "Elise"
+                },
+                {
+                    "family": "George",
+                    "given": "Sébastien"
+                },
+                {
+                    "family": "Ji",
+                    "given": "Min"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2021,
+                        1,
+                        5
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/GJWXUDZ3",
+            "type": "chapter",
+            "title": "The Side Effect of Learning Analytics: An Empirical Study on e-Learning Technologies and User Privacy",
+            "container-title": "Computers Supported Education",
+            "publisher": "Springer International Publishing",
+            "publisher-place": "Cham",
+            "page": "279-295",
+            "volume": "739",
+            "event-place": "Cham",
+            "abstract": "Student monitoring, the most common practice in Learning Analytics (LA), has become easier and more efficient thanks to the use of tracking approach that consists of collecting data of users and of their interactions throughout learning platforms. While LA gives considerable assistance to the tutors in the tasks of monitoring online learning, it also creates major drawbacks for the learners. For instance, tracking approach in LA raises many privacy questions. As for the learners, knowing that their personal data are being used, even for educational purposes, they could radically change their perception on e-learning technologies. Not to mention that these concerns would have a strong impact, sometimes very negatively, on not only their behaviors but also their learning outcomes. To better understand the side effect of LA, more particularly the privacy issues in e-learning, the research effort presented in this paper covers two main aspects. First, it outlines various tracking approaches in e-learning. Second, it analyzes how the learners perceive the use of their personal data and the related privacy issues. To do so, an experiment has been carried out with the participation of students from three different universities in France and one university in Germany. The major contribution of this paper is the awarenessraising of privacy concerns in exploiting tracking data in e-learning, which are often overlooked by researchers and learning content providers.",
+            "URL": "http://link.springer.com/10.1007/978-3-319-63184-4_15",
+            "ISBN": "978-3-319-63183-7 978-3-319-63184-4",
+            "note": "Series Title: Communications in Computer and Information Science\nDOI: 10.1007/978-3-319-63184-4_15",
+            "shortTitle": "The Side Effect of Learning Analytics",
+            "language": "en",
+            "editor": [
+                {
+                    "family": "Costagliola",
+                    "given": "Gennaro"
+                },
+                {
+                    "family": "Uhomoibhi",
+                    "given": "James"
+                },
+                {
+                    "family": "Zvacek",
+                    "given": "Susan"
+                },
+                {
+                    "family": "McLaren",
+                    "given": "Bruce M."
+                }
+            ],
+            "author": [
+                {
+                    "family": "May",
+                    "given": "Madeth"
+                },
+                {
+                    "family": "Iksal",
+                    "given": "Sébastien"
+                },
+                {
+                    "family": "Usener",
+                    "given": "Claus A."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2021,
+                        5,
+                        27
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/XZYMISSL",
+            "type": "article-journal",
+            "title": "TrAVis to Enhance Online Tutoring and Learning Activities: Real Time Visualization of Students Tracking Data",
+            "container-title": "Interact. Techn. Smart Edu.",
+            "page": "52-69",
+            "volume": "8",
+            "abstract": "Purpose – This paper presents a part of our research work that places an emphasis on Tracking Data Analysis and Visualization (TrAVis) tools, a web-based system, designed to enhance online tutoring and learning activities, supported by computer-mediated communication (CMC) tools. TrAVis is particularly dedicated to assist both tutors and students in the task of exploiting tracking data of communication activities throughout the learning process. This paper focuses on the technical aspects of TrAVis, the visualization of students' tracking data and the experiment we have conducted in an authentic learning situation. Design/methodology/approach – A mixture of iterative and participative approaches has been adopted for the design of TrAVis. Different versions of TrAVis were built during the progress of our research. The major changes in each build have particularly involved the conceptual design of data indicators of students' activities and the visualization techniques of the data indicators. Both case studies and experiments have been made to evaluate TrAVis. Findings – This paper demonstrates how TrAVis provides a new experience in visualizing and analyzing students' tracking data. While it shows the originality and novelty of the system, it also reveals the potential benefits of TrAVis to both tutors and students in their online tutoring and learning activities. Research limitations/implications – The result from the experiment is not sufficient to evaluate some specific aspects of TrAVis. As a matter of fact, the lack of user's feedback did not enable us to justify whether or not the proposed data indicators would be actually used by the users. Practical implications – The data indicators shown in this paper are computed based on the real needs of the participants in the learning process. Online questionnaires were used and face-to-face interviews have been made to study the needs of the users throughout this research work. Originality/value – One of the particularities of this research is the proposed system, TrAVis, objectively designed to better support the tutors in the tasks of monitoring and evaluating students on CMC tools. Plus, TrAVis is distinguished from the existing systems by its capacity in computing substantial data indicators, allowing the tutors to efficiently visualize and analyze both the process and the product of students' activities.",
+            "DOI": "10.1108/17415651111125513",
+            "shortTitle": "TrAVis to Enhance Online Tutoring and Learning Activities",
+            "journalAbbreviation": "Interact. Techn. Smart Edu.",
+            "author": [
+                {
+                    "family": "May",
+                    "given": "Madeth"
+                },
+                {
+                    "family": "George",
+                    "given": "Sébastien"
+                },
+                {
+                    "family": "Prévôt",
+                    "given": "Patrick"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2011",
+                        4,
+                        19
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/FQ3P3ZEU",
+            "type": "chapter",
+            "title": "Designing with Cards",
+            "container-title": "Collaboration in Creative Design: Methods and Tools",
+            "publisher": "Springer International Publishing",
+            "publisher-place": "Cham",
+            "page": "75-95",
+            "event-place": "Cham",
+            "abstract": "In this chapter, we focus on design techniques that employ a particular form of design materials, namely design cards. Design cards can support different phases of a design process, from initial ideation through ongoing concept development towards evaluation of design concepts. We present three different techniques, namely PLEX Cards, Inspiration Card Workshops and the Video Card Game, and how they are used. Once we have illustrated the three techniques, we discuss general characteristics of design cards that make them great tools in collaborative design (i.e., tangible idea containers, triggers of combinatorial creativity, and collaboration enablers).",
+            "URL": "https://doi.org/10.1007/978-3-319-29155-0_5",
+            "ISBN": "978-3-319-29155-0",
+            "note": "DOI: 10.1007/978-3-319-29155-0_5",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Lucero",
+                    "given": "Andrés"
+                },
+                {
+                    "family": "Dalsgaard",
+                    "given": "Peter"
+                },
+                {
+                    "family": "Halskov",
+                    "given": "Kim"
+                },
+                {
+                    "family": "Buur",
+                    "given": "Jacob"
+                }
+            ],
+            "editor": [
+                {
+                    "family": "Markopoulos",
+                    "given": "Panos"
+                },
+                {
+                    "family": "Martens",
+                    "given": "Jean-Bernard"
+                },
+                {
+                    "family": "Malins",
+                    "given": "Julian"
+                },
+                {
+                    "family": "Coninx",
+                    "given": "Karin"
+                },
+                {
+                    "family": "Liapis",
+                    "given": "Aggelos"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2022,
+                        2,
+                        1
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/FVZYSNJ3",
+            "type": "paper-conference",
+            "title": "Specification of Observation Needs in an Instructional Design Context - A Model-Driven Engineering Approach.",
+            "page": "111-118",
+            "volume": "1",
+            "event": "CSEDU",
+            "abstract": "Our works take place in the research field of distant learning situation observations. We want to help instructional designers to improve the learning scenarios they design within a re-engineering context. We think that the observation of the learners' behavior can be improved by taking into account the observation needs from the designers. We originally think these observation needs can be related to and guided by the information specified into the learning scenarios. This article presents a Model-Driven Engineering approach for the specification of these observation needs. A specific metamodel has been elaborated to support our conceptual proposition and process. A dedicated example illustrates the use of this metamodel to specify observation needs according to a given learning scenario and Educational Modeling Language. First elements of tooling are also presented.",
+            "author": [
+                {
+                    "family": "Laforcade",
+                    "given": "Pierre"
+                },
+                {
+                    "family": "Zendagui",
+                    "given": "Boubekeur"
+                },
+                {
+                    "family": "Barré",
+                    "given": "Vincent"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2009",
+                        1,
+                        1
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/U5JIIV46",
+            "type": "paper-conference",
+            "title": "Quantum of Choice: How learners’ feedback monitoring decisions, goals and self-regulated learning skills are related",
+            "container-title": "LAK21: 11th International Learning Analytics and Knowledge Conference",
+            "publisher": "ACM",
+            "publisher-place": "Irvine CA USA",
+            "page": "416-427",
+            "event": "LAK21: 11th International Learning Analytics and Knowledge Conference",
+            "event-place": "Irvine CA USA",
+            "abstract": "Learning analytics dashboards (LADs) are designed as feedback tools for learners, but until recently, learners rarely have had a say in how LADs are designed and what information they receive through LADs. To overcome this shortcoming, we have developed a customisable LAD for Coursera MOOCs on which learners can set goals and choose indicators to monitor. Following a mixedmethods approach, we analyse 401 learners’ indicator selection behaviour in order to understand the decisions they make on the LAD and whether learner goals and self-regulated learning skills influence these decisions. We found that learners overwhelmingly chose indicators about completed activities. Goals are not associated with indicator selection behaviour, while help-seeking skills predict learners’ choice of monitoring their engagement in discussions and time management skills predict learners’ interest in procrastination indicators. The findings have implications for our understanding of learners’ use of LADs and their design.",
+            "URL": "https://dl.acm.org/doi/10.1145/3448139.3448179",
+            "DOI": "10.1145/3448139.3448179",
+            "ISBN": "978-1-4503-8935-8",
+            "shortTitle": "Quantum of Choice",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Jivet",
+                    "given": "Ioana"
+                },
+                {
+                    "family": "Wong",
+                    "given": "Jacqueline"
+                },
+                {
+                    "family": "Scheffel",
+                    "given": "Maren"
+                },
+                {
+                    "family": "Valle Torre",
+                    "given": "Manuel"
+                },
+                {
+                    "family": "Specht",
+                    "given": "Marcus"
+                },
+                {
+                    "family": "Drachsler",
+                    "given": "Hendrik"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        12
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2022,
+                        7,
+                        13
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/7JW7QNTB",
+            "type": "article-journal",
+            "title": "An online learning collaboratory to address multidisciplinary learning challenges at scale",
+            "container-title": "Interaction Design and Architecture(s)",
+            "page": "11-32",
+            "abstract": "\"Ensuring inclusive and quality education for all to promote lifelong learning\" is among the United Nations' global time-critical sustainable development challenges. Massive open online courses and other online learning systems can potentially address this challenge by fostering high-quality online learning at scale. However, online learning introduces complex challenges that involve multiple disciplines, varied learning contexts, and diverse learner backgrounds. There are plenty of research initiatives that try to address this problem, but they are fragmented efforts that could benefit from a community effort. We propose an online learning collaboratory framework to leverage and connect ongoing research efforts. In this paper, we propose four objectives for the online learning collaboratory and discuss existing work aligned with such objectives, which are: evaluation and refinement of instructional designs, interdisciplinary communication through design patterns, design pattern implementation, and bridging communities of practice. The collaboratory should bridge different communities through design patterns and connect datadriven practices and tools to address multidisciplinary learning challenges at scale.",
+            "journalAbbreviation": "Interaction Design and Architecture(s)",
+            "author": [
+                {
+                    "family": "Inventado",
+                    "given": "Paul"
+                },
+                {
+                    "family": "Scupelli",
+                    "given": "Peter"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2017",
+                        6,
+                        1
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/UXUN3GVW",
+            "type": "paper-conference",
+            "title": "A comparative analysis of approaches to design and capitalize data indicators",
+            "container-title": "18th International Conference Cognition and Exploratory Learning in Digital Age",
+            "publisher-place": "Virtual, Portugal",
+            "event-place": "Virtual, Portugal",
+            "abstract": "In Technology Enhanced Learning field, learning analytics cover multiple research challenges, among which tracking data analysis and data indicator design and visualization. Part of our research effort is dedicated to change their design process, in order to capitalize them. This would allow us to meet a need in cost savings of design workflow and to encourage the adoption by users throughout their implications in a simplified design process. A study of the state of the art has been made to explore various solutions which could be exploited in the capitalization of indicators on both levels, design and implementation. It sets a direction toward a user-centered approach, aiming at a better control of users over their observation needs and the use of their data.",
+            "URL": "https://hal.archives-ouvertes.fr/hal-03463835",
+            "author": [
+                {
+                    "family": "Gril",
+                    "given": "Albane"
+                },
+                {
+                    "family": "May",
+                    "given": "Madeth"
+                },
+                {
+                    "family": "Renault",
+                    "given": "Valérie"
+                },
+                {
+                    "family": "George",
+                    "given": "Sébastien"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        10
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2022,
+                        2,
+                        1
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/6HN6W436",
+            "type": "article-journal",
+            "title": "Towards a structured approach to the definition of indicators for collaborative activities in engineering design",
+            "container-title": "Journal of Engineering Design",
+            "page": "195-216",
+            "volume": "23",
+            "abstract": "The work reported here relates to the need for collaborative platforms for sharing knowledge in engineering design. Such platforms often integrate different indicators for describing or measuring the characteristics of current or past activities in order to improve collaboration. These collaboration indicators are intended to promote the interaction between the users of those platforms, and to provide engineers with different forms of awareness. In this paper, the issue of defining a structured approach for building a consistent set of indicators for an efficient collaborative platform in engineering design is investigated. A possible classification for these indicators is put forward and is based on several dimensions, such as the social aspects. This classification provides a broad view of indicator requirements, through grid, making it possible both to analyse existing indicators and to characterise users’ needs in order to define new ones. The proposed classification is tested in two different companies using a collaborative platform for their engineering activities. It is shown that the classification makes it possible to reveal the strengths and weaknesses of an existing set of indicators, and how it can support the elicitation process of new ones. Finally, a definition of co-design methodology for collaboration indicators is suggested. Here, particular attention is paid to users’ needs and to the systematic consideration of all relevant dimensions.",
+            "DOI": "10.1080/09544828.2011.576334",
+            "journalAbbreviation": "Journal of Engineering Design",
+            "author": [
+                {
+                    "family": "Gendron",
+                    "given": "Elise"
+                },
+                {
+                    "family": "Pourroy",
+                    "given": "Franck"
+                },
+                {
+                    "family": "Carron",
+                    "given": "Thibault"
+                },
+                {
+                    "family": "Marty",
+                    "given": "Jean-Charles"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2012",
+                        3,
+                        1
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/Z8ABNCNC",
+            "type": "article-journal",
+            "title": "Learning Analytics: Definitions, Processes and Potential",
+            "abstract": "Recently, interest in how this data can be used to improve teaching and learning has also seen unprecedented growth and the emergence of the field of learning analytics. In other fields, analytics tools already enable the statistical evaluation of rich data sources and the identification of patterns within the data. These patterns are then used to better predict future events and make informed decisions aimed at improving outcomes (Educause, 2010). This paper reviews the literature related to this emerging field and seeks to define learning analytics, its processes, and its potential to advance teaching and learning in online education.",
+            "shortTitle": "Learning Analytics",
+            "author": [
+                {
+                    "family": "Elias",
+                    "given": "Tanya"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2011",
+                        1,
+                        1
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/XRTMAQ9G",
+            "type": "article-journal",
+            "title": "Review of Current Student-Monitoring Techniques used in eLearning-Focused recommender Systems and Learning analytics. The Experience API & LIME model Case Study",
+            "container-title": "International Journal of Artificial Intelligence and Interactive Multimedia",
+            "page": "44-52",
+            "volume": "2",
+            "abstract": "Recommender systems require input information in order to properly operate and deliver content or behaviour suggestions to end users. eLearning scenarios are no exception. Users are current students and recommendations can be built upon paths (both formal and informal), relationships, behaviours, friends, followers, actions, grades, tutor interaction, etc. A recommender system must somehow retrieve, categorize and work with all these details. There are several ways to do so: from raw and inelegant database access to more curated web APIs or even via HTML scrapping. New server-centric user-action logging and monitoring standard technologies have been presented in past years by several groups, organizations and standard bodies. The Experience API (xAPI), detailed in this article, is one of these. In the first part of this paper we analyse current learner-monitoring techniques as an initialization phase for eLearning recommender systems. We next review standardization efforts in this area; finally, we focus on xAPI and the potential interaction with the LIME model, which will be also summarized below.",
+            "DOI": "10.9781/ijimai.2014.276",
+            "journalAbbreviation": "International Journal of Artificial Intelligence and Interactive Multimedia",
+            "author": [
+                {
+                    "family": "Corbi",
+                    "given": "Alberto"
+                },
+                {
+                    "family": "Burgos",
+                    "given": "Daniel"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2014",
+                        9,
+                        1
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/WJQX4QMF",
+            "type": "paper-conference",
+            "title": "User Centered Approach for Learning analytics Dashboard Generation",
+            "container-title": "CSEDU 2019 : 11th International Conference on Computer Supported Education",
+            "collection-title": "CSEDU 2019",
+            "publisher-place": "Heraklion, Greece",
+            "page": "260-267",
+            "volume": "2",
+            "event-place": "Heraklion, Greece",
+            "URL": "https://hal.archives-ouvertes.fr/hal-02183389",
+            "DOI": "10.5220/0007693102600267",
+            "note": "Issue: 1",
+            "author": [
+                {
+                    "family": "Dabbebi",
+                    "given": "Inès"
+                },
+                {
+                    "family": "Gilliot",
+                    "given": "Jean-Marie"
+                },
+                {
+                    "family": "Iksal",
+                    "given": "Sébastien"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        5
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2022,
+                        2,
+                        1
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/TTJFC7RW",
+            "type": "article-journal",
+            "title": "DESIGNING FOR INSTRUMENT-MEDIATED ACTIVITY",
+            "page": "19",
+            "volume": "12",
+            "abstract": "The need to design information processing systems based on an anthropocentric approach, i.e., one where the design of technical objects deliberately draws from and is geared to the user’s activity, is a critical issue in the modernization of life and work environments. Within this framework, we propose a developmental approach to instruments in which they are not just understood as fabricated material objects but are also psychological and social entities. We present a model and propose ways of approaching the design of information processing systems.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Béguin",
+                    "given": "P"
+                },
+                {
+                    "family": "Rabardel",
+                    "given": "P"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2000
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/FFD3N4SX",
+            "type": "article-journal",
+            "title": "A Framework on the Critical Success Factors of E-Learning Implementation in Higher Education: A Review of the Literature",
+            "container-title": "World Academy of Science, Engineering and Technology International Journal of Social, Behavioral, Educational, Economic, Business and Industrial Engineering",
+            "volume": "Vol:10,",
+            "abstract": "This paper presents a conceptual framework on the\ncritical success factors of e-learning implementation in higher\neducation, derived from an in-depth survey of literature review. The aim of this study was achieved by identifying critical success factors that affect for the successful implementation of e-learning. The\nfindings help to articulate issues that are related to e-learning implementation in both formal and non-formal higher education and in this way contribute to the development of programs designed to address the relevant issues.",
+            "shortTitle": "A Framework on the Critical Success Factors of E-Learning Implementation in Higher Education",
+            "journalAbbreviation": "World Academy of Science, Engineering and Technology International Journal of Social, Behavioral, Educational, Economic, Business and Industrial Engineering",
+            "author": [
+                {
+                    "family": "Basak",
+                    "given": "Sujit"
+                },
+                {
+                    "family": "Wotto",
+                    "given": "Marguerite"
+                },
+                {
+                    "family": "Bélanger",
+                    "given": "Paul"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2016",
+                        1,
+                        1
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/UHKMVHRY",
+            "type": "article-journal",
+            "title": "Review of Monitoring Tools for E-Learning Platforms",
+            "container-title": "International Journal of Computer Science and Information Technology",
+            "page": "79-86",
+            "volume": "6",
+            "issue": "3",
+            "abstract": "The advancement of e-learning technologies has made it viable for developments in education and technology to be combined in order to fulfil educational needs worldwide. E-learning consists of informal learning approaches and emerging technologies to support the delivery of learning skills, materials, collaboration and knowledge sharing. E-learning is a holistic approach that covers a wide range of \ncourses, technologies and infrastructures to provide an effective learning environment. The Learning Management System (LMS) is the core of the entire e-learning process along with technology, content, and services. This paper investigates the role of model-driven personalisation support modalities in providing enhanced levels of learning and trusted assimilation in an e-learning delivery context. We present an analysis of the impact of an integrated learning path that an e-learning system may employ to track activities and evaluate the performance of learners.",
+            "DOI": "10.5121/ijcsit.2014.6306",
+            "journalAbbreviation": "International Journal of Computer Science and Information Technology",
+            "author": [
+                {
+                    "family": "Alowayr",
+                    "given": "Ali"
+                },
+                {
+                    "family": "Badii",
+                    "given": "Atta"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2014",
+                        7,
+                        9
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/TXUNISHA",
+            "type": "webpage",
+            "title": "Involving teachers in learning analytics design | Proceedings of the Tenth International Conference on Learning Analytics & Knowledge",
+            "URL": "https://dl.acm.org/doi/abs/10.1145/3375462.3375507",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2022,
+                        12,
+                        27
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/R24JLUHH",
+            "type": "webpage",
+            "title": "Construction and Evaluation of a User Experience Questionnaire | SpringerLink",
+            "URL": "https://link.springer.com/chapter/10.1007/978-3-540-89350-9_6",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2022,
+                        11,
+                        4
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/Q4RJRGQC",
+            "type": "article-journal",
+            "title": "Adaptive systems in education: a review and conceptual unification",
+            "container-title": "The International Journal of Information and Learning Technology",
+            "page": "2-19",
+            "volume": "34",
+            "issue": "1",
+            "abstract": "Purpose The purpose of this paper is to review the use of adaptive systems in education. It is intended to be a useful introduction for the non-specialist reader. Design/methodology/approach A distinction is made between intelligent tutoring systems (ITSs) and adaptive hypermedia systems (AHSs). The two kinds of system are defined, compared and contrasted. Examples of the implementation of the two kinds of system are included. Findings Similarities and differences between the two kinds of system are highlighted. A conceptual unification is proposed based on the architecture of Course Assembly System and Tutorial Environment, a seminal prototype learning environment developed by Pask and Scott in the 1970s as an application of Pask’s conversation theory. Originality/value The architecture shows how the key aspects of ITSs and AHSs can be combined to complement each other. It is intended to be an original contribution that is of particular interest for the specialist reader.",
+            "URL": "https://doi.org/10.1108/IJILT-09-2016-0040",
+            "DOI": "10.1108/IJILT-09-2016-0040",
+            "note": "Publisher: Emerald Publishing Limited",
+            "shortTitle": "Adaptive systems in education",
+            "author": [
+                {
+                    "family": "Wilson",
+                    "given": "Chunyu"
+                },
+                {
+                    "family": "Scott",
+                    "given": "Bernard"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        1,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2023,
+                        1,
+                        17
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/YD9ZDYEJ",
+            "type": "article-journal",
+            "title": "Visualizing online collaborative writing strategies in higher education group assignments",
+            "container-title": "The International Journal of Information and Learning Technology",
+            "page": "351-373",
+            "volume": "37",
+            "issue": "5",
+            "abstract": "Purpose Working together in groups is a common and emphasized feature in today's society, and higher educational settings often utilize group assignments to enable students to develop collaborative skills. Therefore, the purpose of this article is to describe and analyze applied strategies and the patterns that emerge during students online collaborative writing in higher education group assignments. The research questions that this article aims to answer are (1) which patterns of students online collaborative writing emerge in higher education group assignments and (2) what strategies of online collaborative writing do higher education students apply in group assignments? Design/methodology/approach This study's design builds on Conversation Analysis to explore visualizations of Google Docs revision history of online collaborative writing documents. Documents from 25 student groups were the basis of the analysis. The visualizations used in this project are produced with the DocuViz Chrome extension. Findings The findings suggest that visualizations can provide a quick and fairly accurate estimate of collaborative strategies used when students write together online. Three patterns of document growth were identified, two of which could be directly linked to strategies for collaboration. Cramming patterns are indicative of low collaboration and concentrating patterns with high levels of collaboration. Practical implications The findings provide useful insight for teachers regarding the nature of collaboration taking place during online collaborative writing tasks. By visualizing the revision history, much can be learnt about the nature of the collaboration and of the individual group member's contributions in a student group that otherwise remains largely invisible to the teacher. Originality/value Prior studies have combined visualizations with extensive analysis of document content. This investigation shows that an examination of the visualization of the document's revision history can be used to draw conclusions about the nature of collaboration during the online writing process.",
+            "URL": "https://doi.org/10.1108/IJILT-02-2020-0018",
+            "DOI": "10.1108/IJILT-02-2020-0018",
+            "note": "Publisher: Emerald Publishing Limited",
+            "author": [
+                {
+                    "family": "Sundgren",
+                    "given": "Marcus"
+                },
+                {
+                    "family": "Jaldemark",
+                    "given": "Jimmy"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        1,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2022,
+                        12,
+                        27
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/X8LJ4VLG",
+            "type": "paper-conference",
+            "title": "Automated insightful drill-down recommendations for learning analytics dashboards",
+            "container-title": "Proceedings of the Tenth International Conference on Learning Analytics & Knowledge",
+            "collection-title": "LAK '20",
+            "publisher": "Association for Computing Machinery",
+            "publisher-place": "New York, NY, USA",
+            "page": "41–46",
+            "event-place": "New York, NY, USA",
+            "abstract": "The big data revolution is an exciting opportunity for universities, which typically have rich and complex digital data on their learners. It has motivated many universities around the world to invest in the development and implementation of learning analytics dashboards (LADs). These dashboards commonly make use of interactive visualisation widgets to assist educators in understanding and making informed decisions about the learning process. A common operation in analytical dashboards is a 'drill-down', which in an educational setting allows users to explore the behaviour of sub-populations of learners by progressively adding filters. Nevertheless, drill-down challenges exist, which hamper the most effective use of the data, especially by users without a formal background in data analysis. Accordingly, in this paper, we address this problem by proposing an approach that recommends insightful drill-downs to LAD users. We present results from an application of our proposed approach using an existing LAD. A set of insightful drill-down criteria from a course with 875 students are explored and discussed.",
+            "URL": "https://doi.org/10.1145/3375462.3375539",
+            "DOI": "10.1145/3375462.3375539",
+            "ISBN": "978-1-4503-7712-6",
+            "author": [
+                {
+                    "family": "Shabaninejad",
+                    "given": "Shiva"
+                },
+                {
+                    "family": "Khosravi",
+                    "given": "Hassan"
+                },
+                {
+                    "family": "Indulska",
+                    "given": "Marta"
+                },
+                {
+                    "family": "Bakharia",
+                    "given": "Aneesha"
+                },
+                {
+                    "family": "Isaias",
+                    "given": "Pedro"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2020",
+                        3,
+                        23
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2023,
+                        1,
+                        6
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/HT2QH8JI",
+            "type": "article-journal",
+            "title": "Guiding the choice of learning dashboard visualizations: Linking dashboard design and data visualization concepts",
+            "container-title": "Journal of Computer Languages",
+            "page": "19-38",
+            "volume": "50",
+            "abstract": "Learning dashboards are known to improve decision-making by visualizing learning processes and helping to track where learning processes evolve as expected and where potential issues (may) occur. Despite the popularity of such dashboards, little is known theoretically on the design principles. Our earlier research reports on the gap between dashboards’ design and learning science concepts, subsequently proposing a conceptual model that links dashboard design principles with learning process and feedback concepts. This paper extends our previous work by mapping the dashboard design and data/information visualization concepts. Based on a conceptual analysis and empirical evidence from earlier research, recommendations are proposed to guide the choice of visual representations of data in learning dashboards corresponding to the intended feedback typology.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S1045926X18301009",
+            "DOI": "10.1016/j.jvlc.2018.11.002",
+            "shortTitle": "Guiding the choice of learning dashboard visualizations",
+            "journalAbbreviation": "Journal of Computer Languages",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Sedrakyan",
+                    "given": "Gayane"
+                },
+                {
+                    "family": "Mannens",
+                    "given": "Erik"
+                },
+                {
+                    "family": "Verbert",
+                    "given": "Katrien"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        2,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2022,
+                        12,
+                        27
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/TAC2NFVS",
+            "type": "book",
+            "title": "Quantifying the User Experience: Practical Statistics for User Research",
+            "publisher": "Morgan Kaufmann",
+            "number-of-pages": "374",
+            "abstract": "Quantifying the User Experience: Practical Statistics for User Research, Second Edition, provides practitioners and researchers with the information they need to confidently quantify, qualify, and justify their data. The book presents a practical guide on how to use statistics to solve common quantitative problems that arise in user research. It addresses questions users face every day, including, Is the current product more usable than our competition? Can we be sure at least 70% of users can complete the task on their first attempt? How long will it take users to purchase products on the website?  This book provides a foundation for statistical theories and the best practices needed to apply them. The authors draw on decades of statistical literature from human factors, industrial engineering, and psychology, as well as their own published research, providing both concrete solutions (Excel formulas and links to their own web-calculators), along with an engaging discussion on the statistical reasons why tests work and how to effectively communicate results. Throughout this new edition, users will find updates on standardized usability questionnaires, a new chapter on general linear modeling (correlation, regression, and analysis of variance), with updated examples and case studies throughout. Completely updated to provide practical guidance on solving usability testing problems with statistics for any project, including those using Six Sigma practices Includes new and revised information on standardized usability questionnaires Includes a completely new chapter introducing correlation, regression, and analysis of variance Shows practitioners which test to use, why they work, and best practices for application, along with easy-to-use Excel formulas and web-calculators for analyzing data Recommends ways for researchers and practitioners to communicate results to stakeholders in plain English",
+            "ISBN": "978-0-12-802548-2",
+            "note": "Google-Books-ID: USPfCQAAQBAJ",
+            "shortTitle": "Quantifying the User Experience",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Sauro",
+                    "given": "Jeff"
+                },
+                {
+                    "family": "Lewis",
+                    "given": "James R."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        7,
+                        12
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/D4QMGER5",
+            "type": "article-journal",
+            "title": "Monitoring, awareness and reflection in blended technology enhanced learning: a systematic review",
+            "container-title": "International Journal of Technology Enhanced Learning",
+            "page": "126-150",
+            "volume": "9",
+            "issue": "2-3",
+            "abstract": "Education is experiencing a paradigm shift towards blended learning models in technology-enhanced learning (TEL). Despite the potential benefits of blended learning, it also entails additional complexity in terms of monitoring, awareness and reflection, as learning happens across different spaces and modalities. In recent years, literature on learning analytics (LA) and educational data mining (EDM) has gained momentum and started to address the issue. To provide a clear picture of the current state of the research on the topic and to outline open research gaps, this paper presents a systematic literature review of the state-of-the-art of research in LA and EDM on monitoring, awareness and reflection in blended TEL scenarios. The search included six main academic databases in TEL that were enriched with the proceedings of the workshop on 'Awareness and Reflection in TEL' (ARTEL), resulting in 1089 papers out of which 40 papers were included in the final analysis.",
+            "URL": "https://www.inderscienceonline.com/doi/abs/10.1504/IJTEL.2017.084489",
+            "DOI": "10.1504/IJTEL.2017.084489",
+            "note": "Publisher: Inderscience Publishers",
+            "shortTitle": "Monitoring, awareness and reflection in blended technology enhanced learning",
+            "author": [
+                {
+                    "family": "Rodríguez-Triana",
+                    "given": "María Jesús"
+                },
+                {
+                    "family": "Prieto",
+                    "given": "Luis P."
+                },
+                {
+                    "family": "Vozniuk",
+                    "given": "Andrii"
+                },
+                {
+                    "family": "Boroujeni",
+                    "given": "Mina Shirvani"
+                },
+                {
+                    "family": "Schwendimann",
+                    "given": "Beat A."
+                },
+                {
+                    "family": "Holzer",
+                    "given": "Adrian"
+                },
+                {
+                    "family": "Gillet",
+                    "given": "Denis"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2022,
+                        12,
+                        28
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/CUKVRVGI",
+            "type": "article-journal",
+            "title": "Footprinting e-learners' activity: A first step to help their appropriation of the training system?",
+            "container-title": "International Journal of Knowledge Management",
+            "page": "65-77",
+            "volume": "6",
+            "issue": "3",
+            "abstract": "Information and communication technologies have invaded the field of training, though their performances have been judged by companies to be insufficient. Among the origins of this state of affairs, the author considers that the lack of knowledge of what happens in a \"real use situation\" plays an important role. Indeed, understanding what is involved in learners-system interactions is fundamental to improve the system appropriation and its efficient usage. This appropriation is a dual necessity for learners as they must take over the offered possibilities of interactions and acquire the necessary knowledge. As appropriation is made through offered interactions, the author considers computer interactions traces as potential appropriation facilitators. This conceptual article presents bibliographical research concerning the use of computer interactions traces and proposes a classification of 'tracing systems'. Additionally, the links between these works and the process of appropriation in an instrumented training situation is provided, while the author also presents an experimental study conducted on the role of traces of interactions in a collaborative mediated task by using a numerical environment.",
+            "URL": "https://hal.archives-ouvertes.fr/hal-00669021",
+            "note": "Publisher: IGI Global",
+            "shortTitle": "Footprinting e-learners' activity",
+            "author": [
+                {
+                    "family": "Ollagnier-Beldame",
+                    "given": "Magali"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2010,
+                        5
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2021,
+                        7,
+                        13
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/9I4YFFKA",
+            "type": "article-journal",
+            "title": "What Do You Mean by Collaboration Analytics? A Conceptual Model",
+            "container-title": "Journal of Learning Analytics",
+            "page": "126-153",
+            "volume": "8",
+            "issue": "1",
+            "abstract": "Using data to generate a deeper understanding of collaborative learning is not new, but automatically analyzing log data has enabled new means of identifying key indicators of effective collaboration and teamwork that can be used to predict outcomes and personalize feedback. Collaboration analytics is emerging as a new term to refer to computational methods for identifying salient aspects of collaboration from multiple group data sources for learners, educators, or other stakeholders to gain and act upon insights. Yet, it remains unclear how collaboration analytics go beyond previous work focused on modelling group interactions for the purpose of adapting instruction. This paper provides a conceptual model of collaboration analytics to help researchers and designers identify the opportunities enabled by such innovations to advance knowledge in, and provide enhanced support for, collaborative learning and teamwork. We argue that mapping from low-level data to higher-order constructs that are educationally meaningful, and that can be understood by educators and learners, is essential to assessing the validity of collaboration analytics. Through four cases, the paper illustrates the critical role of theory, task design, and human factors in the design of interfaces that inform actionable insights for improving collaboration and group learning.",
+            "URL": "https://eric.ed.gov/?id=EJ1295232",
+            "note": "Publisher: Society for Learning Analytics Research\nERIC Number: EJ1295232",
+            "shortTitle": "What Do You Mean by Collaboration Analytics?",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Martinez-Maldonado",
+                    "given": "Roberto"
+                },
+                {
+                    "family": "Gaševic",
+                    "given": "Dragan"
+                },
+                {
+                    "family": "Echeverria",
+                    "given": "Vanessa"
+                },
+                {
+                    "family": "Fernandez Nieto",
+                    "given": "Gloria"
+                },
+                {
+                    "family": "Swiecki",
+                    "given": "Zachari"
+                },
+                {
+                    "family": "Buckingham Shum",
+                    "given": "Simon"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        0
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2022,
+                        12,
+                        27
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/VFJAMQZK",
+            "type": "article-journal",
+            "title": "What Constitutes an ‘Actionable Insight’ in Learning Analytics?",
+            "container-title": "Journal of Learning Analytics",
+            "page": "198-221",
+            "volume": "5",
+            "issue": "3",
+            "abstract": "The possibilities of Learning Analytics as a tool for empowering teachers and educators have created a steep interest in how to provide so-called actionable insights. However, the literature offers little in the way of defining or discussing what the term “actionable insight” means. This selective literature review provides a look into the use of the term in current literature. The review points to a dominant perspective in the literature that assumes the perspective of a rational actor, where actionable insights are treated as insights mined from data and subsequently acted upon. It also finds evidence of other perspectives and discusses the need for clarification of the term in order to establish a more precise and fruitful use of the term.",
+            "URL": "https://learning-analytics.info/index.php/JLA/article/view/5897",
+            "DOI": "10.18608/jla.2018.53.13",
+            "note": "Number: 3",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Jørnø",
+                    "given": "Rasmus Leth"
+                },
+                {
+                    "family": "Gynther",
+                    "given": "Karsten"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        12,
+                        11
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2022,
+                        12,
+                        27
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/XXMULLIU",
+            "type": "paper-conference",
+            "title": "Involving teachers in learning analytics design: lessons learned from two case studies",
+            "container-title": "Proceedings of the Tenth International Conference on Learning Analytics & Knowledge",
+            "publisher": "ACM",
+            "publisher-place": "Frankfurt Germany",
+            "page": "94-99",
+            "event": "LAK '20: 10th International Conference on Learning Analytics and Knowledge",
+            "event-place": "Frankfurt Germany",
+            "abstract": "Involving teachers in the design of technology-enhanced learning environments is a useful method towards bridging the gap between research and practice. This is especially relevant for learning analytics tools, wherein the presentation of educational data to teachers or students requires meaningful sense-making to effectively support data-driven actions. In this paper, we present two case studies carried out in the context of two research projects in the USA and Spain which aimed to involve teachers in the co-design of learning analytics tools through professional development programs. The results of a cross-case analysis highlight lessons learned around challenges and principles regarding the meaningful involvement of teachers in learning analytics tooling design.",
+            "URL": "https://dl.acm.org/doi/10.1145/3375462.3375507",
+            "DOI": "10.1145/3375462.3375507",
+            "ISBN": "978-1-4503-7712-6",
+            "shortTitle": "Involving teachers in learning analytics design",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Michos",
+                    "given": "Konstantinos"
+                },
+                {
+                    "family": "Lang",
+                    "given": "Charles"
+                },
+                {
+                    "family": "Hernández-Leo",
+                    "given": "Davinia"
+                },
+                {
+                    "family": "Price-Dennis",
+                    "given": "Detra"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        23
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2022,
+                        12,
+                        27
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/R47QXWEM",
+            "type": "paper-conference",
+            "title": "Development of Actionable Insights for Regulating Students’ Collaborative Writing of Scientific Texts | SpringerLink",
+            "event": "EC-TEL",
+            "abstract": "We develop indicators for teachers to monitor and regulate students'\ncollaborative writing on a web-based science learning environment. Visualiza-\ntions of carefully selected indicators are proposed to teachers in order to facilitate\nthe tracking, analysis and management of the students' collaborative work pro-\ncess over time. Our research method is based on a user-centered approach. Via\nfocus groups and interviews, teachers have participated in the design of the indi-\ncators and visualizations. This communication presents (a) the mapping from col-\nlected data to educational constructs underlying our analytical approach for col-\nlaborative writing, (b) indicators and visualizations produced to provide actiona-\nble insights to teachers, and (c) lessons learned from our iterative human-centered\ndesign process. The results are transferable to other learning environments and\ndesign processes.",
+            "URL": "https://link.springer.com/chapter/10.1007/978-3-031-16290-9_47",
+            "author": [
+                {
+                    "family": "Hoffmann",
+                    "given": "Christian"
+                },
+                {
+                    "family": "Mandran",
+                    "given": "Nadine"
+                },
+                {
+                    "family": "d'Ham",
+                    "given": "C"
+                },
+                {
+                    "family": "Rebaudo",
+                    "given": "S"
+                },
+                {
+                    "family": "Haddouche",
+                    "given": "."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2022,
+                        11,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/LXSKQGFT",
+            "type": "paper-conference",
+            "title": "User experience (UX): towards an experiential perspective on product quality",
+            "container-title": "Proceedings of the 20th Conference on l'Interaction Homme-Machine",
+            "collection-title": "IHM '08",
+            "publisher": "Association for Computing Machinery",
+            "publisher-place": "New York, NY, USA",
+            "page": "11–15",
+            "event-place": "New York, NY, USA",
+            "abstract": "User Experience (UX) is not just \"old wine in new bottles\". It is a truly extended and distinct perspective on the quality of interactive technology: away from products and problems to humans and the drivers of positive experience. This paper will present my particular perspective on UX and will discuss its implications for the field of Human-Computer Interaction.",
+            "URL": "https://doi.org/10.1145/1512714.1512717",
+            "DOI": "10.1145/1512714.1512717",
+            "ISBN": "978-1-60558-285-6",
+            "shortTitle": "User experience (UX)",
+            "author": [
+                {
+                    "family": "Hassenzahl",
+                    "given": "Marc"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2008",
+                        9,
+                        2
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2022,
+                        11,
+                        4
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/35NLLVRX",
+            "type": "paper-conference",
+            "title": "Learning Indicator Capitalization: Protocol for Needs Gathering and User-Centered Design",
+            "container-title": "2022 International Conference on Advanced Learning Technologies (ICALT)",
+            "publisher": "IEEE",
+            "publisher-place": "Bucharest, Romania",
+            "page": "71-73",
+            "event": "2022 International Conference on Advanced Learning Technologies (ICALT)",
+            "event-place": "Bucharest, Romania",
+            "abstract": "We presented in this paper a protocol for users’ needs gathering in order to study the strategies when they interact with data indicators. As we aim at proposing a design approach allowing the data indicators to be capitalized, we need to encourage the involvement of users in the design process. Their actions can be diverse, including appropriating, reusing, sharing, and adapting data indicators. This led us to set up focus groups including heterogeneous and non-expert users in these complex activities. The protocol, based on a gamification methodology, allows us to initiate a user-centered design approach for our proposal. The collected verbatim will then be analyzed to extract different expressions of the users’ needs for data indicators, as well as their needs in terms of interaction with the latter. The first iterations of the protocol have enabled us to establish our research directions and put our research effort in perspective.",
+            "URL": "https://ieeexplore.ieee.org/document/9853773/",
+            "DOI": "10.1109/ICALT55010.2022.00028",
+            "ISBN": "978-1-66549-519-6",
+            "shortTitle": "Learning Indicator Capitalization",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Gril",
+                    "given": "Albane"
+                },
+                {
+                    "family": "Renault",
+                    "given": "Valerie"
+                },
+                {
+                    "family": "May",
+                    "given": "Madeth"
+                },
+                {
+                    "family": "George",
+                    "given": "Sebastien"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2022"
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2022,
+                        12,
+                        28
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/S9EFIXB6",
+            "type": "paper-conference",
+            "title": "That dashboard looks nice, but what does it mean? towards making meaning explicit in learning analytics design",
+            "container-title": "Proceedings of the 29th Australian Conference on Computer-Human Interaction",
+            "collection-title": "OZCHI '17",
+            "publisher": "Association for Computing Machinery",
+            "publisher-place": "New York, NY, USA",
+            "page": "528–532",
+            "event-place": "New York, NY, USA",
+            "abstract": "As learning analytics (LA) systems become more common, teachers and students are often required to not only make sense of the user interface (UI) elements of a system, but also to make meaning that is pedagogically appropriate to the learning context. However, we suggest that the dominant way of thinking about the relationship between representation and meaning results in an overemphasis on the UI, and that re-thinking this relationship is necessary to create systems that can facilitate deeper meaning making. We propose a conceptual view as a basis for discussion among the LA and HCI communities around a different way of thinking about meaning making, specifically that it should be explicit in the design process, provoking greater consideration of system level elements such as algorithms, data structures and information flow. We illustrate the application of the conceptualisation with two cases of LA design in the areas of Writing Analytics and Multi-modal Dashboards.",
+            "URL": "https://doi.org/10.1145/3152771.3156171",
+            "DOI": "10.1145/3152771.3156171",
+            "ISBN": "978-1-4503-5379-3",
+            "shortTitle": "That dashboard looks nice, but what does it mean?",
+            "author": [
+                {
+                    "family": "Gibson",
+                    "given": "Andrew"
+                },
+                {
+                    "family": "Martinez-Maldonado",
+                    "given": "Roberto"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2017",
+                        11,
+                        28
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2022,
+                        12,
+                        27
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/4HKEPXBL",
+            "type": "article-journal",
+            "title": "User experience - a research agenda",
+            "container-title": "Behaviour & Information Technology",
+            "page": "91-97",
+            "volume": "25",
+            "issue": "2",
+            "abstract": "Over the last decade, 'user experience' (UX) became a buzzword in the field of human - computer interaction (HCI) and interaction design. As technology matured, interactive products became not only more useful and usable, but also fashionable, fascinating things to desire. Driven by the impression that a narrow focus on interactive products as tools does not capture the variety and emerging aspects of technology use, practitioners and researchers alike, seem to readily embrace the notion of UX as a viable alternative to traditional HCI. And, indeed, the term promises change and a fresh look, without being too specific about its definite meaning. The present introduction to the special issue on 'Empirical studies of the user experience' attempts to give a provisional answer to the question of what is meant by 'the user experience'. It provides a cursory sketch of UX and how we think UX research will look like in the future. It is not so much meant as a forecast of the future, but as a proposal - a stimulus for further UX research.",
+            "URL": "https://doi.org/10.1080/01449290500330331",
+            "DOI": "10.1080/01449290500330331",
+            "note": "Publisher: Taylor & Francis\n_eprint: https://doi.org/10.1080/01449290500330331",
+            "author": [
+                {
+                    "family": "Hassenzahl",
+                    "given": "Marc"
+                },
+                {
+                    "family": "Tractinsky",
+                    "given": "Noam"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2006,
+                        3,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2022,
+                        11,
+                        4
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/IJ93JUSA",
+            "type": "paper-conference",
+            "title": "Privacy and Analytics – it's a DELICATE Issue. A Checklist for Trusted Learning Analytics.",
+            "abstract": "The widespread adoption of Learning Analytics (LA) and Educational Data Mining (EDM) has somewhat stagnated recently, and in some prominent cases even been reversed following concerns by governments, stakeholders and civil rights groups about privacy and ethics applied to the handling of personal data. In this ongoing discussion, fears and realities are often indistinguishably mixed up, leading to an atmosphere of uncertainty among potential beneficiaries of Learning Analytics, as well as hesitations among institutional managers who aim to innovate their institution's learning support by implementing data and analytics with a view on improving student success. In this paper, we try to get to the heart of the matter, by analysing the most common views and the propositions made by the LA community to solve them. We conclude the paper with an eight-point checklist named DELICATE that can be applied by researchers, policy makers and institutional managers to facilitate a trusted implementation of Learning Analytics.",
+            "DOI": "10.1145/2883851.2883893",
+            "author": [
+                {
+                    "family": "Drachsler",
+                    "given": "Hendrik"
+                },
+                {
+                    "family": "Greller",
+                    "given": "Wolfgang"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2016",
+                        4,
+                        25
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/DYJWYJXW",
+            "type": "article-journal",
+            "title": "State of the art on Interaction and Collaboration Analysis",
+            "abstract": "The document focuses on students-machine or students-students' interactions analysis that could support students & teachers, when students work in stand-alone mode or in collaborative technology based learning environments. The document concerns the State of the art on the interaction analysis dimensions and approaches that are already applied. The appropriateness of these approaches is related to the learning environments features, the user's profile, the learning activities, and the context of use.",
+            "URL": "https://telearn.archives-ouvertes.fr/hal-00190145",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Dimitrakopoulou",
+                    "given": "Angelique"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2004
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2021,
+                        1,
+                        7
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/X23N8MY4",
+            "type": "book",
+            "title": "Design patterns for recording and analysing usage of learning systems: State of art of tracking and analysing usage",
+            "abstract": "This document presents a state of art according to three aspects: use analysis in a wide point of view, tracking and analysing usages and what's on Design Pattern. The objective of this state of art is to synthetise actual works about tracking and analysing usages in order to isolate possibilities of patterns, that's the aim of DPULSE Jeirp. The work on the state of art has been organised as a collaborative task of the DPLUS members. A lot of papers and projects on this topic have been studied. This document is the synthesis of this work, compiled and enriched by the Metah team.",
+            "URL": "https://telearn.archives-ouvertes.fr/hal-00190305",
+            "shortTitle": "Design patterns for recording and analysing usage of learning systems",
+            "author": [
+                {
+                    "family": "David",
+                    "given": "Jean-Pierre"
+                },
+                {
+                    "family": "Adam",
+                    "given": "Jean-Michel"
+                },
+                {
+                    "family": "Diagne",
+                    "given": "Fatoumata"
+                },
+                {
+                    "family": "Lejeune",
+                    "given": "Anne"
+                },
+                {
+                    "family": "Luengo",
+                    "given": "Vanda"
+                },
+                {
+                    "family": "Pernin",
+                    "given": "Jean-Philippe"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2005
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2021,
+                        5,
+                        31
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/73JJEJ7R",
+            "type": "paper-conference",
+            "title": "The pulse of learning analytics understandings and expectations from the stakeholders",
+            "container-title": "Proceedings of the 2nd International Conference on Learning Analytics and Knowledge",
+            "collection-title": "LAK '12",
+            "publisher": "Association for Computing Machinery",
+            "publisher-place": "New York, NY, USA",
+            "page": "120–129",
+            "event-place": "New York, NY, USA",
+            "abstract": "While there is currently much buzz about the new field of learning analytics [19] and the potential it holds for benefiting teaching and learning, the impression one currently gets is that there is also much uncertainty and hesitation, even extending to scepticism. A clear common understanding and vision for the domain has not yet formed among the educator and research community. To investigate this situation, we distributed a stakeholder survey in September 2011 to an international audience from different sectors of education. The findings provide some further insights into the current level of understanding and expectations toward learning analytics among stakeholders. The survey was scaffolded by a conceptual framework on learning analytics that was developed based on a recent literature review. It divides the domain of learning analytics into six critical dimensions. The preliminary survey among 156 educational practitioners and researchers mostly from the higher education sector reveals substantial uncertainties in learning analytics. In this article, we first briefly introduce the learning analytics framework and its six domains that formed the backbone structure to our survey. Afterwards, we describe the method and key results of the learning analytics questionnaire and draw further conclusions for the field in research and practice. The article finishes with plans for future research on the questionnaire and the publication of both data and the questions for others to utilize.",
+            "URL": "https://doi.org/10.1145/2330601.2330634",
+            "DOI": "10.1145/2330601.2330634",
+            "ISBN": "978-1-4503-1111-3",
+            "author": [
+                {
+                    "family": "Drachsler",
+                    "given": "Hendrik"
+                },
+                {
+                    "family": "Greller",
+                    "given": "Wolfgang"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2012"
+                    ]
+                ],
+                "season": "avril"
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2023,
+                        1,
+                        25
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/LTYWJCU6",
+            "type": "book",
+            "title": "Measuring the User Experience: Collecting, Analyzing, and Presenting Usability Metrics",
+            "publisher": "Newnes",
+            "number-of-pages": "320",
+            "abstract": "Measuring the User Experience was the first book that focused on how to quantify the user experience. Now in the second edition, the authors include new material on how recent technologies have made it easier and more effective to collect a broader range of data about the user experience.  As more UX and web professionals need to justify their design decisions with solid, reliable data, Measuring the User Experience provides the quantitative analysis training that these professionals need. The second edition presents new metrics such as emotional engagement, personas, keystroke analysis, and net promoter score. It also examines how new technologies coming from neuro-marketing and online market research can refine user experience measurement, helping usability and user experience practitioners make business cases to stakeholders. The book also contains new research and updated examples, including tips on writing online survey questions, six new case studies, and examples using the most recent version of Excel. Learn which metrics to select for every case, including behavioral, physiological, emotional, aesthetic, gestural, verbal, and physical, as well as more specialized metrics such as eye-tracking and clickstream data Find a vendor-neutral examination of how to measure the user experience with web sites, digital products, and virtually any other type of product or system Discover in-depth global case studies showing how organizations have successfully used metrics and the information they revealed Companion site, www.measuringux.com, includes articles, tools, spreadsheets, presentations, and other resources to help you effectively measure the user experience",
+            "ISBN": "978-0-12-415792-7",
+            "note": "Google-Books-ID: bPhLeMBLEkAC",
+            "shortTitle": "Measuring the User Experience",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Albert",
+                    "given": "Bill"
+                },
+                {
+                    "family": "Tullis",
+                    "given": "Tom"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2013,
+                        5,
+                        23
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/7KHQLDBF",
+            "type": "paper-conference",
+            "title": "Quantitative Metrics for User Experience: A Case Study",
+            "page": "490-496",
+            "volume": "9459",
+            "event": "Lecture Notes in Computer Science",
+            "abstract": "Improving the human aspects of the software product development requires to take into account the users. This can be done in several ways; here we investigate ways to involve them directly during the first phases of prototypical development. To this aim, rigorously constructed and validated questionnaires can help researchers, designers and developers in collecting opinions and feedback of users to inform design choices and implementation plans. We present a revised Italian version of a standard questionnaire that allows to measure with little effort both the overall User Experience of a product and the Workforce Experience. The idea is that both components are tightly intertwined and can affect each other. The questionnaire was adopted and tested to verify the quality of the redesign interventions on a working tool of an Italian Tour Operator. Results encourage the team to increasingly apply the questionnaire in other projects to collect feedback about users impressions.",
+            "DOI": "10.1007/978-3-319-26844-6_36",
+            "ISBN": "978-3-319-26843-9",
+            "shortTitle": "Quantitative Metrics for User Experience",
+            "author": [
+                {
+                    "family": "Capellini",
+                    "given": "Roberta"
+                },
+                {
+                    "family": "Tassistro",
+                    "given": "Francesca"
+                },
+                {
+                    "family": "Actis-Grosso",
+                    "given": "Rossana"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2015",
+                        12,
+                        2
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/EKG2HJSI",
+            "type": "article-journal",
+            "title": "User measures of quality of experience: why being objective and quantitative is important",
+            "container-title": "IEEE Network",
+            "page": "8-13",
+            "volume": "24",
+            "issue": "2",
+            "abstract": "This article develops the concept of quality of user experience by focusing on requirements for its measurement and communication for use in industry. Whereas more typical work involves either modeling media quality based on technical measures or user subjective assessment of media quality, it is argued that QoE measurement should include objective measures of the process and outcomes of usage. Also, subjective measures should be collected as quantitative data rather than qualitative data as is currently common, because quantitative data enables combined analyses of objective and subjective measures for deriving global QoE ratings. Global ratings are important for optimizing the communicability of results to target audiences. Examples of measures and scales are provided. A structured approach to defining and measuring QoE in relation to QoS is explained and illustrated.",
+            "DOI": "10.1109/MNET.2010.5430138",
+            "note": "Conference Name: IEEE Network",
+            "shortTitle": "User measures of quality of experience",
+            "author": [
+                {
+                    "family": "Brooks",
+                    "given": "Peter"
+                },
+                {
+                    "family": "Hestnes",
+                    "given": "Bjørn"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2010,
+                        3
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/IJWK8NWA",
+            "type": "article-journal",
+            "title": "User-Centered Design",
+            "page": "15",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Abras",
+                    "given": "Chadia"
+                },
+                {
+                    "family": "Maloney-Krichmar",
+                    "given": "Diane"
+                },
+                {
+                    "family": "Preece",
+                    "given": "Jenny"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2004
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/RBT52QEU",
+            "type": "article-journal",
+            "title": "Working Together in Learning Analytics Towards the Co-Creation of Value",
+            "container-title": "Journal of Learning Analytics",
+            "page": "10-26",
+            "volume": "6",
+            "abstract": "The value of technology lies not only with the service or functionality of the tool, but also with its subsequent value to the people who use it. New learning analytics (LA) software and platforms for capturing data and improving student learning are frequently introduced; however, they suffer from issues of adoption and continued usage by stakeholders. Scholars have previously suggested that it is not enough to introduce stakeholders (e.g., teachers and students) to LA technologies; they must also be a part of the LA creation and design process. In this paper, we will continue the ongoing work to clarify and compare different approaches of human-centred design through an overview of participatory frameworks in LA (co-design, co-creation). We will also present a case study using an LA tool used and developed within several Australian universities that was utilized over six years as an example of how LA designers can co-create dynamic platforms with teachers. Implications of participatory design frameworks in LA will also be presented through a discussion of the costs, challenges, and benefits of adopting human-centred design.",
+            "DOI": "10.18608/jla.2019.62.2",
+            "journalAbbreviation": "Journal of Learning Analytics",
+            "author": [
+                {
+                    "family": "Dollinger",
+                    "given": "Mollie"
+                },
+                {
+                    "family": "Liu",
+                    "given": "Danny"
+                },
+                {
+                    "family": "Arthars",
+                    "given": "Natasha"
+                },
+                {
+                    "family": "Lodge",
+                    "given": "Jason"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2019",
+                        8,
+                        2
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/MPI5L7YH",
+            "type": "article-journal",
+            "title": "Learning Analytics and Educational Data Mining in Practice: A Systematic Literature Review of Empirical Evidence",
+            "container-title": "Educational Technology & Society",
+            "page": "49-64",
+            "volume": "17",
+            "abstract": "This paper aims to provide the reader with a comprehensive background for understanding current knowledge on Learning Analytics (LA) and Educational Data Mining (EDM) and its impact on adaptive learning. It constitutes an overview of empirical evidence behind key objectives of the potential adoption of LA/EDM in generic educational strategic planning. We examined the literature on experimental case studies conducted in the domain during the past six years (2008-2013). Search terms identified 209 mature pieces of research work, but inclusion criteria limited the key studies to 40. We analyzed the research questions, methodology and findings of these published papers and categorized them accordingly. We used non-statistical methods to evaluate and interpret findings of the collected studies. The results have highlighted four distinct major directions of the LA/EDM empirical research. We discuss on the emerged added value of LA/EDM research and highlight the significance of further implications. Finally, we set our thoughts on possible uncharted key questions to investigate both from pedagogical and technical considerations.",
+            "shortTitle": "Learning Analytics and Educational Data Mining in Practice",
+            "journalAbbreviation": "Educational Technology & Society",
+            "author": [
+                {
+                    "family": "Papamitsiou",
+                    "given": "Zacharoula"
+                },
+                {
+                    "family": "Economides",
+                    "given": "Anastasios"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2014",
+                        10,
+                        28
+                    ]
+                ]
+            }
+        }
+    ]
+}

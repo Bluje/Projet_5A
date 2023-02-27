@@ -1,0 +1,190 @@
+{
+    "items": [
+        {
+            "id": "12721408/RBT52QEU",
+            "type": "article-journal",
+            "title": "Working Together in Learning Analytics Towards the Co-Creation of Value",
+            "container-title": "Journal of Learning Analytics",
+            "page": "10-26",
+            "volume": "6",
+            "abstract": "The value of technology lies not only with the service or functionality of the tool, but also with its subsequent value to the people who use it. New learning analytics (LA) software and platforms for capturing data and improving student learning are frequently introduced; however, they suffer from issues of adoption and continued usage by stakeholders. Scholars have previously suggested that it is not enough to introduce stakeholders (e.g., teachers and students) to LA technologies; they must also be a part of the LA creation and design process. In this paper, we will continue the ongoing work to clarify and compare different approaches of human-centred design through an overview of participatory frameworks in LA (co-design, co-creation). We will also present a case study using an LA tool used and developed within several Australian universities that was utilized over six years as an example of how LA designers can co-create dynamic platforms with teachers. Implications of participatory design frameworks in LA will also be presented through a discussion of the costs, challenges, and benefits of adopting human-centred design.",
+            "DOI": "10.18608/jla.2019.62.2",
+            "journalAbbreviation": "Journal of Learning Analytics",
+            "author": [
+                {
+                    "family": "Dollinger",
+                    "given": "Mollie"
+                },
+                {
+                    "family": "Liu",
+                    "given": "Danny"
+                },
+                {
+                    "family": "Arthars",
+                    "given": "Natasha"
+                },
+                {
+                    "family": "Lodge",
+                    "given": "Jason"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2019",
+                        8,
+                        2
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/65IHU7LS",
+            "type": "article",
+            "title": "Ergonomic Criteria for the Evaluation of Human-Computer Interfaces",
+            "abstract": "This technical report presents first a brief summary of the research conducted towards the\ndesign of ergonomic criteria for the evaluation of human-computer interfaces (HCI), and then,\nthe full description of the most recent set of criteria (version 2.1) both in English and French.\nThe summary outlines the context in which the criteria were developed, the goal of the criteria\napproach, the experiments conducted, and the results obtained. The set of ergonomic criteria\nthat resulted from this work consists of a list of 18 elementary criteria (including 9 main\ncriteria). The criteria are presented along with their definitions, rationales, examples of\nguidelines, and comments setting out the distinctions between some of them.",
+            "author": [
+                {
+                    "family": "Bastien",
+                    "given": "J. M. Christian"
+                },
+                {
+                    "family": "Scapin",
+                    "given": "Dominique"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        1993
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/52MC5QNL",
+            "type": "article-journal",
+            "title": "Content Repository in Object Oriented Data Model",
+            "container-title": "Annales - Universitatis Mariae Curie-Sklodowska, Sectio AI",
+            "page": "17-27",
+            "volume": "13",
+            "abstract": "The need for creating content repository stores for e-learning systems grows as the number of available materials increases. Moreover, along with the number of courses, the problem of describing them in a unified form appears. While there are standards used for strict classification of elearning content, the store model still seems to be based on preservative relational databases approach. In this paper we introduce an idea to represent the e-learning content management information in the well organized object-oriented form based on a prospective object-oriented database",
+            "DOI": "10.2478/v10065-012-0037-8",
+            "journalAbbreviation": "Annales - Universitatis Mariae Curie-Sklodowska, Sectio AI",
+            "author": [
+                {
+                    "family": "Chromiak",
+                    "given": "Michał"
+                },
+                {
+                    "family": "Dobrowolski",
+                    "given": "Dariusz"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2013",
+                        6,
+                        1
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/TS8BXJXL",
+            "type": "paper-conference",
+            "title": "Capitalisation of analysis processes: enabling reproducibility, openness and adaptability thanks to narration",
+            "page": "245-254",
+            "event": "LAK '18: Proceedings of the 8th International Conference on Learning Analytics and Knowledge",
+            "abstract": "Analysis processes of learning traces, used to gain important pedagogical insights, are yet to be easily shared and reused. They face what is commonly called a reproducibility crisis. From our observations, we identify two important factors that may be the cause of this crisis: technical constraints due to runnable necessities, and context dependencies. Moreover, the meaning of the reproducibility itself is ambiguous and a source of misunderstanding. In this paper, we present an ontological framework dedicated to taking full advantage of already implemented educational analyses. This framework shifts the actual paradigm of analysis processes by representing them from a narrative point of view, instead of a technical one. This enables a formal description of analysis processes with high-level concepts. We show how this description is performed, and how it can help analysts. The goal is to empower both expert and non-expert analysis stakeholders with the possibility to be involved in the elaboration of analysis processes and their reuse in different contexts, by improving both human and machine understanding of these analyses. This possibility is known as the capitalisation of analysis processes of learning traces.",
+            "DOI": "10.1145/3170358.3170408",
+            "ISBN": "978-1-4503-6400-3",
+            "shortTitle": "Capitalisation of analysis processes",
+            "author": [
+                {
+                    "family": "Lebis",
+                    "given": "Alexis"
+                },
+                {
+                    "family": "Lefevre",
+                    "given": "Marie"
+                },
+                {
+                    "family": "Luengo",
+                    "given": "Vanda"
+                },
+                {
+                    "family": "Guin",
+                    "given": "Nathalie"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2018",
+                        3,
+                        7
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/MPI5L7YH",
+            "type": "article-journal",
+            "title": "Learning Analytics and Educational Data Mining in Practice: A Systematic Literature Review of Empirical Evidence",
+            "container-title": "Educational Technology & Society",
+            "page": "49-64",
+            "volume": "17",
+            "abstract": "This paper aims to provide the reader with a comprehensive background for understanding current knowledge on Learning Analytics (LA) and Educational Data Mining (EDM) and its impact on adaptive learning. It constitutes an overview of empirical evidence behind key objectives of the potential adoption of LA/EDM in generic educational strategic planning. We examined the literature on experimental case studies conducted in the domain during the past six years (2008-2013). Search terms identified 209 mature pieces of research work, but inclusion criteria limited the key studies to 40. We analyzed the research questions, methodology and findings of these published papers and categorized them accordingly. We used non-statistical methods to evaluate and interpret findings of the collected studies. The results have highlighted four distinct major directions of the LA/EDM empirical research. We discuss on the emerged added value of LA/EDM research and highlight the significance of further implications. Finally, we set our thoughts on possible uncharted key questions to investigate both from pedagogical and technical considerations.",
+            "shortTitle": "Learning Analytics and Educational Data Mining in Practice",
+            "journalAbbreviation": "Educational Technology & Society",
+            "author": [
+                {
+                    "family": "Papamitsiou",
+                    "given": "Zacharoula"
+                },
+                {
+                    "family": "Economides",
+                    "given": "Anastasios"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2014",
+                        10,
+                        28
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12721408/3EWY8CJ8",
+            "type": "article-journal",
+            "title": "Characteristics of the appropriation process of customers knowledge within the information systems project teams",
+            "container-title": "13th International Conference of the Association Information and Management 2008, AIM 2008",
+            "abstract": "One of the main challenge for IS project managers is to catch customers requirements and expectations. In this article, this process is analyzed through the following perspective: appropriation of customers knowledge. The objective is to better characterize this process of appropriation. After having defined through a literature review this process, a questionnaire has been designed and a survey has been carried out. The first results show links between the degree of project configuration complexity and the access modes to customers knowledge. Moreover, we did not highlight key roles in this process as other authors mentioned in different organisational context. Yet, future studies need to be carried out to confirm this very first results.",
+            "journalAbbreviation": "13th International Conference of the Association Information and Management 2008, AIM 2008",
+            "author": [
+                {
+                    "family": "Carton",
+                    "given": "Sabine"
+                },
+                {
+                    "family": "Farastier",
+                    "given": "Armelle"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2008",
+                        1,
+                        1
+                    ]
+                ]
+            }
+        }
+    ]
+}
